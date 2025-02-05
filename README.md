@@ -21,11 +21,11 @@ This repository contains the **official task descriptions, guidelines, and resou
 - For updates, join our **WhatsApp Community**: [Join Here](https://chat.whatsapp.com/Hw05TgcbmuMIp2ofnunYWv)  
 
 ## Documents & Resources
-📄 **Competition Guidelines:**  
+📄 **Technical Specification Guidelines (Released on February 5th, 2025):**  
 - School Category: [`SLRC_School_Category.pdf`](docs/SLRC_School_Category.pdf)  
 - University Category: [`SLRC_University_Category.pdf`](docs/SLRC_University_Category.pdf)  
 
-# Stay Connected
+## Stay Connected
 
 Stay updated with the latest announcements and competition details through our official channels:
 

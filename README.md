@@ -25,6 +25,14 @@ This repository contains the **official task descriptions, guidelines, and resou
 - School Category: [`SLRC_School_Category.pdf`](docs/SLRC_School_Category.pdf)  
 - University Category: [`SLRC_University_Category.pdf`](docs/SLRC_University_Category.pdf)  
 
+## Demo Videos
+### SLRC 2025 | School Category Task Description
+[![School Category Task](https://img.youtube.com/vi/DQRmmDT_8VM/0.jpg)](https://www.youtube.com/watch?v=DQRmmDT_8VM)
+
+### SLRC 2025 | University Category Task Description
+[![University Category Task](https://img.youtube.com/vi/ZWjGAakGAdY/0.jpg)](https://www.youtube.com/watch?v=ZWjGAakGAdY&t=13s)
+
+
 ## Stay Connected
 
 Stay updated with the latest announcements and competition details through our official channels:
